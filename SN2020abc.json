@@ -1,0 +1,30 @@
+{
+	"SN2020abc":{
+		"schema":"",
+		"name":"SN2020abc",
+		"sources":[
+			{
+				"name":"Jerk et al. 1925",
+				"bibcode":"1925Tst...987..654A",
+				"alias":"1"
+			}
+		],
+		"alias":[
+			{
+				"value":"SN2020abc",
+				"source":"1"
+			},
+			{
+				"value":"EN-TEST-AA",
+				"source":"1"
+			}
+		],
+		"errors":[
+			{
+				"extra":"redshift",
+				"kind":"bibcode",
+				"value":"1925Tst...987..654A"
+			}
+		]
+	}
+}

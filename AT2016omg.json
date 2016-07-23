@@ -1,0 +1,27 @@
+{
+	"AT2016omg":{
+		"schema":"",
+		"name":"AT2016omg",
+		"sources":[
+			{
+				"name":"Jerk et al. 1925",
+				"bibcode":"1925Tst...987..654A",
+				"alias":"1"
+			},
+			{
+				"bibcode":"2001PASJ..547..364C",
+				"alias":"2"
+			},
+			{
+				"name":"Ignored et al. 2001",
+				"alias":"3"
+			}
+		],
+		"alias":[
+			{
+				"value":"AT2016omg",
+				"source":"1"
+			}
+		]
+	}
+}
